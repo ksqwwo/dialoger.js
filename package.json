@@ -1,0 +1,19 @@
+{
+  "name": "dialoger.js",
+  "version": "0.0.1",
+  "description": "Package for creating a dialogue with a virtual girl(xu.su)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iredoff/dialoger.js.git"
+  },
+  "author": "iredoff, perssBest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iredoff/dialoger.js/issues"
+  },
+  "homepage": "https://github.com/iredoff/dialoger.js#readme"
+}
