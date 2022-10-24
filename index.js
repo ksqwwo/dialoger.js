@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 
 exports.start = function(message){
-    if(!message) return 'Enter your message. Help --> https://discord.gg/eYuggsY'
+    if(!message) return 'Enter your message.'
     return new Promise((resolve, reject) => {
         let content = { 
             bot: 'main', 
