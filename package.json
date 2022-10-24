@@ -3,9 +3,8 @@
   "version": "0.0.1",
   "description": "Package for creating a dialogue with a virtual girl(xu.su)",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iredoff/dialoger.js.git"
