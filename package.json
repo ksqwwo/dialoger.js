@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iredoff/dialoger.js.git"
+    "url": "git+https://github.com/ksqwwo/dialoger.js.git"
   },
-  "author": "iredoff, perssBest",
+  "author": "iredoff, perssBest, ksqwwo, nyansterowo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iredoff/dialoger.js/issues"
+    "url": "https://github.com/ksqwwo/dialoger.js/issues"
   },
-  "homepage": "https://github.com/iredoff/dialoger.js#readme"
+  "homepage": "https://github.com/ksqwwo/dialoger.js#readme"
 }
